@@ -1,4 +1,11 @@
-# flutter_tugas_pt5
+# Nama : Rabiatul Hikmah
+
+# Nim : 2409116049
+------------------------
+
+# **flutter_tugas_Part5**
+
+
 
 Aplikasi e-commerce sederhana berbasis Flutter dengan fitur product listing, cart management, dan checkout.
 
